@@ -2,7 +2,7 @@
 
 Just clone it, chmod it and run it.
 
-    git clone 
+    git clone https://github.com/denis-w/install_convert.sh.git 
     chmod +x install_Convert.sh
     ./install_Convert.sh
 
